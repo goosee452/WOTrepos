@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "Tank.h"
 
 using namespace std;
 
